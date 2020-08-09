@@ -1,0 +1,9 @@
+{
+  "name": "xxp",
+  "script": "./app.js",
+  "cwd": "./",
+  "max_memory_restart": "300M",  
+  "env": {
+    "NODE_ENV": "production"
+  }
+}

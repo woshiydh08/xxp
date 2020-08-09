@@ -1,0 +1,26 @@
+{
+  "name": "xxp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "pm2 delete cdn-system && pm2 start pm2.json"
+  },
+  "dependencies": {
+    "@koa/cors": "^2.2.2",
+    "jsonwebtoken": "^8.3.0",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-convert": "^1.2.0",
+    "koa-onerror": "^1.2.1",
+    "koa-router": "^7.1.1",
+    "koa-static": "^3.0.0",
+    "mongoose": "^5.3.11",
+    "pug": "^2.0.0-rc.1",
+    "qiniu": "^7.1.2"
+  },
+  "devDependencies": {
+    "koa-static-cache": "^5.1.2",
+    "nodemon": "^1.8.1"
+  }
+}

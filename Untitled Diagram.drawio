@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T06:37:09.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" version="14.6.13" etag="Bw7vdl6v4APXQOY1l0fO" type="github"><diagram id="gAYLs6P5zjDs-k3iVm-y">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-30T06:39:57.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="cEh2ehCH7fE4-lUI5GOB" version="14.6.13" type="github">
+  <diagram id="gAYLs6P5zjDs-k3iVm-y" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a8IUFsbmlE4pYnBHEr7y-1" target="a8IUFsbmlE4pYnBHEr7y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-1" value="前期准备期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a8IUFsbmlE4pYnBHEr7y-2" target="a8IUFsbmlE4pYnBHEr7y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-2" value="品牌导入期" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a8IUFsbmlE4pYnBHEr7y-4" target="a8IUFsbmlE4pYnBHEr7y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-4" value="集中蓄客期" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a8IUFsbmlE4pYnBHEr7y-6" target="a8IUFsbmlE4pYnBHEr7y-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-6" value="开盘期" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a8IUFsbmlE4pYnBHEr7y-8" target="a8IUFsbmlE4pYnBHEr7y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-8" value="强销期" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a8IUFsbmlE4pYnBHEr7y-10" value="持销期" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
